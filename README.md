@@ -19,5 +19,6 @@ An Outrun-inspired editor theme for RStudio. It is based largely off of the chao
 
 1. Navigate to where you stored the `outRun.rstheme` file and click `Open`.
 
+  *Optional:* Install [riley-roach](https://github.com/riley-roach)'s [Darker RStudio Modern theme](https://github.com/riley-roach/daRkStudio).
 
-For the visual learner, I would highly suggest following the [RStudio's IDE Custom Theme Support guide](https://blog.rstudio.com/2018/10/29/rstudio-ide-custom-theme-support/#importing-a-custom-theme).
+For the visual learner, I would suggest following the [RStudio's IDE Custom Theme Support guide](https://blog.rstudio.com/2018/10/29/rstudio-ide-custom-theme-support/#importing-a-custom-theme).
