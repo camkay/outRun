@@ -4,7 +4,7 @@ An [Outrun-inspired](https://www.reddit.com/r/outrun) editor theme for RStudio. 
 
 ![Example of Outrun Theme](https://github.com/camkay/outRun/blob/master/example/outrun_theme_example.png)
 
-## Importing the Custom Theme
+## Importing the Theme
 
 1. Download the `outRun.rstheme` file. 
 
