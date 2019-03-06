@@ -1,1 +1,2 @@
-# rstudio_outRun_theme
+# outRun RStudio Editor Theme
+
