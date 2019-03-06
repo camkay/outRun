@@ -8,7 +8,7 @@ An [Outrun-inspired](https://www.reddit.com/r/outrun) editor theme for [RStudio]
 
 1. Download the `outRun.rstheme` file. 
 
-1. Open `RStudio`.
+1. Open `RStudio`. You will need [version 1.2](https://dailies.rstudio.com) or later.
 
 1. MAC: Navigate to `RStudio > Preferences...` in the menubar.
 
