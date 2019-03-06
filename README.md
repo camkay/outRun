@@ -1,6 +1,6 @@
 # outRun RStudio Editor Theme
 
-An [Outrun-inspired](https://www.reddit.com/r/outrun) editor theme for [RStudio](https://www.rstudio.com). The theme is largely based off of the chaos editor theme.
+An [Outrun](https://www.reddit.com/r/outrun)-inspired editor theme for [RStudio](https://www.rstudio.com). The theme is largely based off of the chaos editor theme.
 
 ![Example of Outrun Theme](https://github.com/camkay/outRun/blob/master/example/outrun_theme_example.png)
 
