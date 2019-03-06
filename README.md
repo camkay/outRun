@@ -8,7 +8,7 @@ An Outrun-inspired editor theme for RStudio. It is largely based off of the chao
 
 1. Download the `outRun.rstheme` file. 
 
-1. Open `RStudio`. 
+1. Open `RStudio`.
 
 1. MAC: Navigate to `RStudio > Preferences...` in the menubar.
 
